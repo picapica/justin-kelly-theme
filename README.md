@@ -6,6 +6,6 @@ This is a git repository reproduction of the theme detailed at http://blog.justi
 See https://github.com/imathis/octopress/wiki/3rd-Party-Octopress-Themes for more themes.
 
     $ cd octopress
-    $ git clone https://github.com/wallace/justin-kelly-theme.git .themes/justin-kelly-theme
+    $ git clone https://github.com/picapica/justin-kelly-theme.git .themes/justin-kelly-theme
     $ rake install['justin-kelly-theme']
     $ rake generate
